@@ -21,7 +21,7 @@
 
 ### :bow_and_arrow: Practicing
 
-![image](https://www.codewars.com/users/LindenTea-dev/badges/large?theme=light)
+![image](https://www.codewars.com/users/LindenTea-dev/badges/small?theme=light)
 
 <!--
 ### :woman_technologist: About Me :
