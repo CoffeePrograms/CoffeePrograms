@@ -27,7 +27,7 @@
 
 ---
 
-### 📫 How to reach me 
+### 💬 How to reach me 
 
 [![image](https://user-images.githubusercontent.com/58783548/198652180-00bb25b9-8fac-40a7-90a2-502935402ac6.png)](https://www.linkedin.com/in/elvira-lipova-a00020244/)
 
