@@ -27,7 +27,7 @@
 
 📫 How to reach me 
 
-[Mail](mailto:elvira.lipova@yandex.ru)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvira.lipova@yandex.ru)
 
 [![image](https://user-images.githubusercontent.com/58783548/198652180-00bb25b9-8fac-40a7-90a2-502935402ac6.png)](https://www.linkedin.com/in/elvira-lipova-a00020244/)
 
