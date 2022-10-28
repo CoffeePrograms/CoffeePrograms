@@ -25,14 +25,12 @@
 
 [![LeetCode user LindenTea-dev](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FLindenTea-dev&logo=leetcode&logoColor=yellow)](https://leetcode.com/LindenTea-dev/)
 
-[Contact me](mailto:elvira.lipova@yandex.ru)
+📫 How to reach me 
 
+[Mail](mailto:elvira.lipova@yandex.ru)
 
-<!--
 [![image](https://user-images.githubusercontent.com/58783548/198652180-00bb25b9-8fac-40a7-90a2-502935402ac6.png)](https://www.linkedin.com/in/elvira-lipova-a00020244/)
 
-
--->
 
 - 🔭 I’m currently working on this page. 
 
