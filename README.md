@@ -35,26 +35,15 @@
 
 
 
-- 🔭 I’m currently working on this page. 
-
-
 <!--
 
 ### 🔭 Projects
 
 — Мои последние работы. Тут все просто. Укажите список ваших работ, к ним могут относится любые ваши проекты, задумки, open source, pet project.
 
-
 ### 🌱 Currently learning 
 
-
-
 ### 💬 Ask me about
-
-
-
-### 📫 How to reach me 
-  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
 <!--
