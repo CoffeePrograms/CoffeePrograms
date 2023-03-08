@@ -34,15 +34,15 @@
 
 — [Десктопное WPF приложение с использованем MVVM](https://github.com/OwlCodes-dev/WpfAppRestaurant)
 
-— [Отработка шаблонов проектирования на задаче по вычислению корней кваратного уравнения, консоль](https://github.com/OwlCodes-dev/QuadraticEquation_DesignPatterns)
+— [Шаблоны проектирования в задаче по вычислению корней кваратного уравнения, консоль](https://github.com/OwlCodes-dev/QuadraticEquation_DesignPatterns)
 
-— [Отработка потокобезопасных классов, WPF](https://github.com/OwlCodes-dev/ConcurrentQueue/tree/master/ConcurrentQueue)
+— [Потокобезопасные классы, WPF](https://github.com/OwlCodes-dev/ConcurrentQueue/tree/master/ConcurrentQueue)
 
 #### Pyhton
 
-— [Наследование в приложении по отрисовке фигур](https://github.com/OwlCodes-dev/DrawShapesProject)
-
 — [Работа с классами, консольным меню, записью в файл](https://github.com/OwlCodes-dev/LibraryProject)
+
+— [Наследование в приложении по отрисовке фигур](https://github.com/OwlCodes-dev/DrawShapesProject)
 
 ---
   
