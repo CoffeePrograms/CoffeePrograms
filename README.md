@@ -36,7 +36,7 @@
 
 — [Шаблоны проектирования в задаче по вычислению корней кваратного уравнения, консоль](https://github.com/OwlCodes-dev/QuadraticEquation_DesignPatterns)
 
-— [Потокобезопасные классы, WPF](https://github.com/OwlCodes-dev/ConcurrentQueue/tree/master/ConcurrentQueue)
+— [Потокобезопасные классы, WPF](https://github.com/OwlCodes-dev/ConcurrentQueue/)
 
 #### Pyhton
 
