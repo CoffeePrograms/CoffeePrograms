@@ -26,14 +26,25 @@
 [![LeetCode user OwlCodes-dev](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOwlCodes-dev&logo=leetcode&logoColor=yellow)](https://leetcode.com/OwlCodes-dev/)
 
 ---
-<!--
 
 ### 🔭 Projects
 
-— 
+
+#### C#
+
+— [Десктопное WPF приложение с использованем MVVM](https://github.com/OwlCodes-dev/WpfAppRestaurant)
+
+— [Отработка шаблонов проектирования на задаче по вычислению корней кваратного уравнения, консоль](https://github.com/OwlCodes-dev/QuadraticEquation_DesignPatterns)
+
+— [Отработка потокобезопасных классов, WPF](https://github.com/OwlCodes-dev/ConcurrentQueue/tree/master/ConcurrentQueue)
+
+#### Pyhton
+
+— [Наследование в приложении по отрисовке фигур](https://github.com/OwlCodes-dev/DrawShapesProject)
+
+— [Работа с классами, консольным меню, записью в файл](https://github.com/OwlCodes-dev/LibraryProject)
 
 ---
--->
   
 ### 💬 How to reach me 
 
