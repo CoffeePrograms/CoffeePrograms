@@ -21,10 +21,11 @@
 
 ### :zap: Practicing
 
-[![image](https://www.codewars.com/users/ElviraCodes/badges/small?theme=light)](https://www.codewars.com/users/ElviraCodes)
+[![image](https://www.codewars.com/users/CoffeePrograms/badges/small?theme=light)](https://www.codewars.com/users/CoffeePrograms)
 
-[![LeetCode user ElviraCodes](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOwlCodes-dev&logo=leetcode&logoColor=yellow)](https://leetcode.com/OwlCodes-dev/)
-
+<!--
+[![LeetCode user ElviraCodes](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCoffeePrograms&logo=leetcode&logoColor=yellow)](https://leetcode.com/CoffeePrograms/)
+-->
 ---
 
 ### 🔭 Projects
