@@ -34,7 +34,7 @@
 
 — [Десктопное WPF приложение с использованем MVVM](https://github.com/OwlCodes-dev/WpfAppRestaurant)
 
-— [Шаблоны проектирования в задаче по вычислению корней кваратного уравнения, консоль](https://github.com/OwlCodes-dev/QuadraticEquation_DesignPatterns)
+— [Шаблоны проектирования в математической задаче, консоль](https://github.com/OwlCodes-dev/QuadraticEquation_DesignPatterns)
 
 — [Потокобезопасные классы, WPF](https://github.com/OwlCodes-dev/ConcurrentQueue/)
 
