@@ -32,17 +32,17 @@
 
 #### C#
 
-— [Десктопное WPF приложение с использованем MVVM](https://github.com/OwlCodes-dev/WpfAppRestaurant)
+— [WPF with MVVM](https://github.com/OwlCodes-dev/WpfAppRestaurant)
 
-— [Шаблоны проектирования в математической задаче, консоль](https://github.com/OwlCodes-dev/QuadraticEquation_DesignPatterns)
+— [Design patterns in a mathematical problem](https://github.com/OwlCodes-dev/QuadraticEquation_DesignPatterns)
 
-— [Потокобезопасные классы, WPF](https://github.com/OwlCodes-dev/ConcurrentQueue/)
+— [Thread safety, WPF](https://github.com/OwlCodes-dev/ConcurrentQueue/)
 
 #### Pyhton
 
-— [Работа с классами, консольным меню, записью в файл](https://github.com/OwlCodes-dev/LibraryProject)
+— [Python console application with OOP](https://github.com/OwlCodes-dev/LibraryProject)
 
-— [Наследование в приложении по отрисовке фигур](https://github.com/OwlCodes-dev/DrawShapesProject)
+— [Inheritance in Python](https://github.com/OwlCodes-dev/DrawShapesProject)
 
 ---
   
