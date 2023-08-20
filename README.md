@@ -38,6 +38,8 @@
 
 — [Thread safety, WPF](https://github.com/OwlCodes-dev/ConcurrentQueue/)
 
+— [Codewars solutions](https://github.com/CoffeePrograms/Codewars/)
+
 #### Pyhton
 
 — [Python console application with OOP](https://github.com/OwlCodes-dev/LibraryProject)
