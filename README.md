@@ -33,8 +33,6 @@
 
 — [ASP.NET Core MVC + Docker](https://github.com/CoffeePrograms/WebPostgresqlDocker)
 
-— [WPF with MVVM](https://github.com/OwlCodes-dev/WpfAppRestaurant)
-
 — [Design patterns in a mathematical problem](https://github.com/OwlCodes-dev/QuadraticEquation_DesignPatterns)
 
 — [Thread safety, WPF](https://github.com/OwlCodes-dev/ConcurrentQueue/)
