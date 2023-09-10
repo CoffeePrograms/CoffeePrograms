@@ -31,6 +31,8 @@
 
 #### C#
 
+— [WPF (MVVM) + gRPC (Server-client)](https://github.com/CoffeePrograms/TestTaskAdvantica)
+
 — [ASP.NET Core MVC + Docker](https://github.com/CoffeePrograms/WebPostgresqlDocker)
 
 — [Design patterns in a mathematical problem](https://github.com/OwlCodes-dev/QuadraticEquation_DesignPatterns)
