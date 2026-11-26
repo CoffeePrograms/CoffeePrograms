@@ -1,69 +1,56 @@
-<h1 align="center">Hi there, I'm Elvira <!--<a href="https://daniilshat.ru/" target="_blank">Elvira</a> --!>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Desktop and Backend Developer from Russia</h3>
+<h1 align="center">
+  Привет, я Эльвира
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""/>
+</h1>
+<h3 align="center">Системный аналитик</h3>
+
+Системный аналитик, ранее — разработчик на C#/.NET. Читаю код и пишу требования на уровне реализации.
+
+Магистр компьютерных наук (ДонНТУ, 2020). Английский — B1.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MsSQL"  alt="MsSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+### Чем занимаюсь
+
+- Собираю требования из кода, договоров и устных запросов
+- Моделирую систему: C4, Sequence, ERD, State Machine, UML
+- Пишу функциональные требования с критериями приёмки, прототипирую с помощью ИИ: Figma, Google Stitch, Grok Bot.
+- Описываю интеграции и API (OpenAPI / Swagger, gRPC, очереди)
 
 ---
 
-### :zap: Practicing
+### Ключевой кейс
 
-[![image](https://www.codewars.com/users/CoffeePrograms/badges/small?theme=light)](https://www.codewars.com/users/CoffeePrograms)
+**Миграция промышленного приложения для рудников** ноябрь 2025 — август 2026.
 
-[![LeetCode user CoffeePrograms](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCoffeePrograms&logo=leetcode&logoColor=yellow)](https://leetcode.com/CoffeePrograms/)
+Приложение переносили с legacy-монолита C#/WPF на микросервисы. Требования собрала из кода, договоров и устных запросов и превратила постановку «перенести как есть» в переосмысление продукта. Для документации использовала C4, Sequence, ERD и State Machine, прототипы с помощью ИИ в Figma и Google Stitch, функциональные требования с критериями приёмки. Черновики документов готовила с помощью ИИ — это ускорило работу примерно на 30%.
+
+---
+
+### Проекты
+
+**[Приложение для заказа + табло](https://github.com/CoffeePrograms/sa-coursework-restaurant)** — курсовой проект OTUS «Системный аналитик. Advanced». Документация системы заказа для ресторана быстрого обслуживания: киоск самообслуживания, табло готовности и панель персонала. Внутри — бизнес- и функциональные требования, информационная модель, схемы C4 в PlantUML, спецификация OpenAPI 3.0.3, задачи, тест-кейсы и чек-лист приёмки.
+
+Документация: [сайт](https://coffeeprograms.github.io/sa-coursework-restaurant/)
+
+**[Таверна Helios. Организация обедов](https://github.com/CoffeePrograms/sa-coursework-restaurant-helios)** — учебный командный проект курса OTUS «C# ASP.NET Core разработчик» (январь–июнь 2025; документацию переработала в 2026). Веб-сервис бронирования обедов: сотрудники выбирают блюда из меню на день, время и место за столом, менеджер ведёт меню и схему зала и передаёт отчёт ресторану. В команде была системным аналитиком и разработчиком: требования и пользовательские истории с критериями приёмки, модели и диаграммы C4, контракт API, ревизия кода на соответствие требованиям.
+
+Документация: [сайт](https://coffeeprograms.github.io/sa-coursework-restaurant-helios/) · [репозиторий](https://github.com/CoffeePrograms/sa-coursework-restaurant-helios)  
+Код: [coursework-restaurant-helios](https://github.com/CoffeePrograms/coursework-restaurant-helios)
 
 ---
 
-### 🔭 Projects
+### Инструменты и стек
 
+**Системный анализ:** PlantUML, Mermaid, UML, Figma, Swagger / OpenAPI, Scalar, GitLab, Яндекс.Трекер и Wiki
 
-#### C#
-
-— [WPF (MVVM) + gRPC (Server-client)](https://github.com/CoffeePrograms/TestTaskAdvantica)
-
-— [ASP.NET Core MVC + Docker](https://github.com/CoffeePrograms/WebPostgresqlDocker)
-
-— [Design patterns in a mathematical problem](https://github.com/OwlCodes-dev/QuadraticEquation_DesignPatterns)
-
-— [Thread safety, WPF](https://github.com/OwlCodes-dev/ConcurrentQueue/)
-
-— [Codewars solutions](https://github.com/CoffeePrograms/Codewars/)
-
-#### Pyhton
-
-— [Python console application with OOP](https://github.com/OwlCodes-dev/LibraryProject)
-
-— [Inheritance in Python](https://github.com/OwlCodes-dev/DrawShapesProject)
+**Техническое понимание:** REST, gRPC, RabbitMQ, PostgreSQL, ClickHouse, SQL, Docker, .NET
 
 ---
-  
-### 💬 How to reach me 
 
-[![image](https://user-images.githubusercontent.com/58783548/198652180-00bb25b9-8fac-40a7-90a2-502935402ac6.png)](https://www.linkedin.com/in/elvira-lipova-a00020244/)
+### Как связаться
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvira.lipova@yandex.ru)
+[![Telegram-канал](https://img.shields.io/badge/канал-@lipova__ee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lipova_ee)
+[![Telegram](https://img.shields.io/badge/Telegram-@CoffeePrograms-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CoffeePrograms)
+[![Email](https://img.shields.io/badge/Email-elvira.lipova@yandex.ru-FFCC00?style=for-the-badge&logo=yandex&logoColor=red)](mailto:elvira.lipova@yandex.ru)
 
-
-
-<!--
-
-### 🌱 Currently learning 
-
-### 💬 Ask me about
-
-— Мои последние статьи (если у вас есть блог). В этом пункте вы можете указать несколько своих статей со ссылками на них (чтобы не писать каждый раз статьи руками, можно воспользоваться решением для автоматизации https://github.com/gautamkrishnar/blog-post-workflow)
-
-— Статистика по вашему github. Это сервис (репозиторий тут https://github.com/anuraghazra/github-readme-stats) который генерит на основе github api статистику по вашему github аккаунту. Подробно о том, что умеет этот сервис вы можете посмотреть почитав документацию, она довольно простая. Выглядит симпатично.
--->
